@@ -17,17 +17,17 @@
 
   --oui-color-danger: 245 97 139;
   --oui-color-danger-light: 250 167 188;
-  --oui-color-danger-darken: 151 28 65;
+  --oui-color-danger-darken: 158 0 0;
   --oui-color-danger-contrast: 255 255 255;
 
   --oui-color-success: 41 233 169;
   --oui-color-success-light: 101 240 194;
-  --oui-color-success-darken: 18 89 71;
+  --oui-color-success-darken: 13 84 47;
   --oui-color-success-contrast: 255 255 255;
 
   --oui-color-warning: 255 209 70;
   --oui-color-warning-light: 255 229 133;
-  --oui-color-warning-darken: 255 152 0;
+  --oui-color-warning-darken: 164 108 25;
   --oui-color-warning-contrast: 255 255 255;
 
   --oui-color-fill: 36 32 47;
@@ -47,9 +47,9 @@
   --oui-color-base-foreground: 255 255 255;
   --oui-color-line: 255 255 255;
 
-  --oui-color-trading-loss: 181 28 71;
+  --oui-color-trading-loss: 154 25 25;
   --oui-color-trading-loss-contrast: 255 255 255;
-  --oui-color-trading-profit: 10 92 65;
+  --oui-color-trading-profit: 10 92 50;
   --oui-color-trading-profit-contrast: 255 255 255;
 
   /* gradients */
