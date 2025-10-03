@@ -22,7 +22,7 @@ window.__RUNTIME_CONFIG__ = {
   "VITE_ENABLE_CAMPAIGNS": "false",
   "VITE_TELEGRAM_URL": "https://t.me/Manyu_Perps",
   "VITE_DISCORD_URL": "",
-  "VITE_TWITTER_URL": "",
+  "VITE_TWITTER_URL": "https://x.com/manyuperps",
   "VITE_SEO_SITE_NAME": "Manyu Perps",
   "VITE_SEO_SITE_DESCRIPTION": "Manyu Perps — Fast Perp Trading with up to 100x Leverage",
   "VITE_SEO_SITE_URL": "https://manyu.hyperengine.io",
