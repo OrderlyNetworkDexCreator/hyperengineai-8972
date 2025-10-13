@@ -1,6 +1,6 @@
 window.__RUNTIME_CONFIG__ = {
   "VITE_ORDERLY_BROKER_ID": "hyperengine_ai",
-  "VITE_ORDERLY_BROKER_NAME": "HyperEngine_AI",
+  "VITE_ORDERLY_BROKER_NAME": "Manyu_Perps",
   "VITE_DISABLE_MAINNET": "false",
   "VITE_DISABLE_TESTNET": "false",
   "VITE_ORDERLY_MAINNET_CHAINS": "42161,10,8453,1,56,900900900",
@@ -13,7 +13,7 @@ window.__RUNTIME_CONFIG__ = {
   "VITE_DISABLE_EVM_WALLETS": "false",
   "VITE_DISABLE_SOLANA_WALLETS": "false",
   "VITE_WALLETCONNECT_PROJECT_ID": "04f09c8a8d3a79286c3d08e62fced883",
-  "VITE_APP_NAME": "HyperEngine_AI",
+  "VITE_APP_NAME": "Manyu_Perps",
   "VITE_APP_DESCRIPTION": "Manyu Perps — Fast Perp Trading with up to 100x Leverage",
   "VITE_HAS_PRIMARY_LOGO": "true",
   "VITE_HAS_SECONDARY_LOGO": "true",
