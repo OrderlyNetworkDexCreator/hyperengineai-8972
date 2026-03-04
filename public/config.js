@@ -27,7 +27,7 @@ window.__RUNTIME_CONFIG__ = {
   "VITE_TWITTER_URL": "https://x.com/BTCStrategyCoin",
   "VITE_SEO_SITE_NAME": "Bitcoin Strategy Dex",
   "VITE_SEO_SITE_DESCRIPTION": "On-chain perpetuals exchange whose fee flows can be routed into the Bitcoin Strategy protocol.",
-  "VITE_SEO_SITE_URL": "https://manyu.hyperengine.io",
+  "VITE_SEO_SITE_URL": "https://bitcoinstrategy.hyperengine.io",
   "VITE_SEO_SITE_LANGUAGE": "en",
   "VITE_SEO_SITE_LOCALE": "en_US",
   "VITE_SEO_TWITTER_HANDLE": "@BTCStrategyCoin",
