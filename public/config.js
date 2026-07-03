@@ -18,7 +18,7 @@ window.__RUNTIME_CONFIG__ = {
   "VITE_APP_DESCRIPTION": "On-chain perpetuals exchange whose fee flows can be routed into the Bitcoin Strategy protocol.",
   "VITE_HAS_PRIMARY_LOGO": "true",
   "VITE_HAS_SECONDARY_LOGO": "true",
-  "VITE_ENABLED_MENUS": "Trading,Leaderboard,Portfolio,Rewards,Vaults,Markets,Points",
+  "VITE_ENABLED_MENUS": "Trading,Leaderboard,Portfolio,Rewards,Vaults,Markets,Points,Campaigns",
   "VITE_CUSTOM_MENUS": "",
   "VITE_ENABLE_SERVICE_DISCLAIMER_DIALOG": "true",
   "VITE_ENABLE_CAMPAIGNS": "false",
